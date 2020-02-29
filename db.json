@@ -3,28 +3,74 @@
     {
       "id": 1,
       "name": "Gol D",
-      "status": "Ready for Pickup/Delivery"
+      "status": "Ready for Pickup/Delivery",
+      "price": "112",
+      "isPaid": "false",
+      "dateReceived": "01-13-2020",
+      "dateReturned": "",
     },
     {
       "id": 2,
       "name": "Silva",
-      "status": "Washing in progress"
+      "status": "Washing in progress",
+      "price": "358",
+      "isPaid": "false",
+      "dateReceived": "02-04-2020",
+      "dateReturned": "",
     },
     {
       "id": 3,
       "name": "Coppa",
-      "status": "Order Complete"
+      "status": "Order Complete",
+      "price": "132",
+      "isPaid": "true",
+      "dateReceived": "01-29-2020",
+      "dateReturned": "02-03-2020",
     },
     {
       "id": 4,
       "name": "Tungstan",
-      "status": "Queued"
+      "status": "Queued",
+      "price": "124",
+      "isPaid": "true",
+      "dateReceived": "01-22-2020",
+      "dateReturned": "",
     },
     {
       "id": 5,
       "name": "Stell",
-      "status": "Washing in progress"
-    }
+      "status": "Order Complete",
+      "price": "420",
+      "isPaid": "true",
+      "dateReceived": "01-15-2020",
+      "dateReturned": "01-19-2020",
+    },
+    {
+      "id": 6,
+      "name": "Buras",
+      "status": "Ready for Pickup/Delivery",
+      "price": "300",
+      "isPaid": "true",
+      "dateReceived": "01-10-2020",
+      "dateReturned": "",
+    },
+    {
+      "id": 7,
+      "name": "Tin",
+      "status": "Washing in progress",
+      "price": "220",
+      "isPaid": "true",
+      "dateReceived": "02-14-2020",
+      "dateReturned": "",
+    },
+    {
+      "id": 8,
+      "name": "Almunim",
+      "status": "Washing in progress",
+      "price": "195",
+      "dateReceived": "02-23-2020",
+      "dateReturned": "02-27-2020",
+    },
   ],
   "staff": {
     "id": 6,
