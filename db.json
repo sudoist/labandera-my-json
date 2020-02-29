@@ -26,8 +26,8 @@
       "status": "Washing in progress"
     }
   ],
-  {
-  "staff": "id": 6,
+  "staff": {
+    "id": 6,
     "name": "Irun",
     "status": "Active"
   }
