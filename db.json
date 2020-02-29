@@ -1,5 +1,5 @@
 {
-  "customer": [
+  "customer": {
     {
       "id": 1,
       "name": "Gol D",
@@ -25,5 +25,5 @@
       "name": "Stell",
       "status": "Washing in progress"
     }
-  ]
+  }
 }
