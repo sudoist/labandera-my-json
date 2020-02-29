@@ -7,7 +7,7 @@
       "price": "112",
       "isPaid": "Paid",
       "dateReceived": "01-13-2020",
-      "dateReturned": "",
+      "dateReturned": ""
     },
     {
       "id": 2,
@@ -16,7 +16,7 @@
       "price": "358",
       "isPaid": "NA",
       "dateReceived": "02-04-2020",
-      "dateReturned": "",
+      "dateReturned": ""
     },
     {
       "id": 3,
@@ -25,7 +25,7 @@
       "price": "132",
       "isPaid": "Paid",
       "dateReceived": "01-29-2020",
-      "dateReturned": "02-03-2020",
+      "dateReturned": "02-03-2020"
     },
     {
       "id": 4,
@@ -34,7 +34,7 @@
       "price": "124",
       "isPaid": "Paid",
       "dateReceived": "01-22-2020",
-      "dateReturned": "",
+      "dateReturned": ""
     },
     {
       "id": 5,
@@ -43,7 +43,7 @@
       "price": "420",
       "isPaid": "Paid",
       "dateReceived": "01-15-2020",
-      "dateReturned": "01-19-2020",
+      "dateReturned": "01-19-2020"
     },
     {
       "id": 6,
@@ -52,7 +52,7 @@
       "price": "300",
       "isPaid": "NA",
       "dateReceived": "01-10-2020",
-      "dateReturned": "",
+      "dateReturned": ""
     },
     {
       "id": 7,
@@ -61,7 +61,7 @@
       "price": "220",
       "isPaid": "NA",
       "dateReceived": "02-14-2020",
-      "dateReturned": "",
+      "dateReturned": ""
     },
     {
       "id": 8,
@@ -70,8 +70,8 @@
       "price": "195",
       "isPaid": "Paid",
       "dateReceived": "02-23-2020",
-      "dateReturned": "02-27-2020",
-    },
+      "dateReturned": "02-27-2020"
+    }
   ],
   "staff": {
     "id": 6,
