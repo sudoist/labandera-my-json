@@ -1,27 +1,34 @@
 {
-  "customer": {
-    "id": 1,
-    "name": "Gol D",
-    "status": "Ready for Pickup/Delivery"
-  },
-  "customer": {
-    "id": 2,
-    "name": "Silva",
-    "status": "Washing in progress"
-  },
-  "customer": {
-    "id": 3,
-    "name": "Coppa",
-    "status": "Order Complete"
-  },
-  "customer": {
-    "id": 4,
-    "name": "Tungstan",
-    "status": "Queued"
-  },
-  "customer": {
-    "id": 5,
-    "name": "Stell",
-    "status": "Washing in progress"  
+  "customer": [
+    {
+      "id": 1,
+      "name": "Gol D",
+      "status": "Ready for Pickup/Delivery"
+    },
+    {
+      "id": 2,
+      "name": "Silva",
+      "status": "Washing in progress"
+    },
+    {
+      "id": 3,
+      "name": "Coppa",
+      "status": "Order Complete"
+    },
+    {
+      "id": 4,
+      "name": "Tungstan",
+      "status": "Queued"
+    },
+    {
+      "id": 5,
+      "name": "Stell",
+      "status": "Washing in progress"
+    }
+  ],
+  {
+  "staff": "id": 6,
+    "name": "Irun",
+    "status": "Active"
   }
 }
