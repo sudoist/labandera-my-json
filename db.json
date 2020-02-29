@@ -6,7 +6,7 @@
       "status": "Ready for Pickup/Delivery",
       "price": "112",
       "isPaid": "Paid",
-      "dateReceived": "01-13-2020",
+      "dateReceived": "2020-01-13",
       "dateReturned": ""
     },
     {
@@ -15,7 +15,7 @@
       "status": "Washing in progress",
       "price": "358",
       "isPaid": "NA",
-      "dateReceived": "02-04-2020",
+      "dateReceived": "2020-02-04",
       "dateReturned": ""
     },
     {
@@ -24,8 +24,8 @@
       "status": "Order Complete",
       "price": "132",
       "isPaid": "Paid",
-      "dateReceived": "01-29-2020",
-      "dateReturned": "02-03-2020"
+      "dateReceived": "2020-01-29",
+      "dateReturned": "2020-02-03"
     },
     {
       "id": 4,
@@ -33,7 +33,7 @@
       "status": "Queued",
       "price": "124",
       "isPaid": "Paid",
-      "dateReceived": "01-22-2020",
+      "dateReceived": "2020-01-22",
       "dateReturned": ""
     },
     {
@@ -42,8 +42,8 @@
       "status": "Order Complete",
       "price": "420",
       "isPaid": "Paid",
-      "dateReceived": "01-15-2020",
-      "dateReturned": "01-19-2020"
+      "dateReceived": "2020-01-15",
+      "dateReturned": "2020-01-19"
     },
     {
       "id": 6,
@@ -51,7 +51,7 @@
       "status": "Ready for Pickup/Delivery",
       "price": "300",
       "isPaid": "NA",
-      "dateReceived": "01-10-2020",
+      "dateReceived": "2020-01-10",
       "dateReturned": ""
     },
     {
@@ -60,7 +60,7 @@
       "status": "Washing in progress",
       "price": "220",
       "isPaid": "NA",
-      "dateReceived": "02-14-2020",
+      "dateReceived": "2020-02-14",
       "dateReturned": ""
     },
     {
@@ -69,8 +69,8 @@
       "status": "Washing in progress",
       "price": "195",
       "isPaid": "Paid",
-      "dateReceived": "02-23-2020",
-      "dateReturned": "02-27-2020"
+      "dateReceived": "2020-02-23",
+      "dateReturned": "2020-02-27"
     }
   ],
   "staff": {
